@@ -1,4 +1,4 @@
-# CIS-25-Fall-2016
+# CIS 25 Fall 2016 Laney College
 Assignments for Johnnie Williams' CIS 25 Class Fall 2016 Laney College
 
 DISCLAIMER: I was still learning much while taking this class and I had a lot of bad programming habits. I recommend that you don't replicate those.
